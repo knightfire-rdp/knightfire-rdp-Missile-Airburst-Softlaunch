@@ -1,0 +1,8 @@
+{
+	"Name": "Missile Airburst/Softlaunch",
+	"Description": "Missiles will airburst/softlaunch after traveling a certain distance, some even start off without any kind of exhaust at all similar to javelin",
+	"LoadPriority": 0,
+	"RequiredOnClient": false,
+	"Version": "1.0",
+
+}

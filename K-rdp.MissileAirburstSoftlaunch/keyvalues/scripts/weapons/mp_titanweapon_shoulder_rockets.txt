@@ -1,0 +1,18 @@
+WeaponData
+{
+	"projectile_trail_effect_0" 					"Rocket_Smoke_SMALL_Titan_2"
+	"projectile_trail_attachment" 					"exhaust"
+	
+	//Missile Airburst
+	//"projectile_flight_sound"                       "Weapon_Sidwinder_Projectile"
+    "ignition_distance"                             "300"
+    //"pre_ignition_speed"                            "750"
+    //"pre_ignition_damage"                           "200"
+    //"pre_ignition_damage_titanarmor" 				"200"
+    "pre_ignition_flight_sound"                     "Weapon_Sidwinder_Projectile"
+    //"pre_ignition_trail_effect"                     "Rocket_Smoke_SMR"
+	"pre_ignition_trail_effect"                     "Rocket_Smoke_Large"
+    "pre_ignition_impact_effect_table"              "40mm_splasher_rounds"//"exp_smr"
+    "ignition_sound"                                "Weapon_Sidewinder_Fire_3P"
+    "ignition_effect"                               "MissileAirBurst"
+}
